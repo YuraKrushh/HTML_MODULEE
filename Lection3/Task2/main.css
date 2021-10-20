@@ -1,0 +1,83 @@
+.back {
+    background: white;
+    height: 600px;
+    width: 600px;
+    margin: auto auto auto auto;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.top {
+    height: 25%;
+    width: 100%;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.middle {
+    height: 60%;
+    width: 100%;
+    background: white;
+    display: flex;
+    flex-direction: row;
+
+}
+.bottom {
+    height: 15%;
+    width: 100%;
+    background: #6cc0f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "GOST type A";
+
+}
+
+.header {
+    height: 59.9%;
+    width: 100%;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "GOST type A";
+
+}
+
+.nav {
+    height: 39%;
+    width: 100%;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "GOST type A";
+}
+
+.main {
+    height: 100%;
+    width: 70%;
+    background: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "GOST type A";
+}
+
+.aside {
+    height: 100%;
+    width: 30%;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "GOST type A";
+}
