@@ -1,0 +1,73 @@
+.page {
+    height: 700px;
+    width: 500px;
+    /*border: 3px solid gray;*/
+    margin-right: auto ;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.top {
+    width: 100%;
+    height: 25%;
+    background: white;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+
+}
+#widgets {
+    width: 100%;
+    height: 100%;
+    background: #3f71c5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+    font-family: "Candara Light";
+}
+
+.middle {
+    width: 100%;
+    height: 25%;
+    background: white;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.blocks {
+    height: 100%;
+    width: 31.7%;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 8px;
+    font-family: "Candara Light";
+}
+
+
+
+.bottom {
+    width: 100%;
+    height: 44%;
+    background: white;
+    padding: 2% 2% 2% 2%;
+
+}
+#contact {
+    width: 100%;
+    height: 100%;
+    background: #3f71c5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+    font-family: "Candara Light";
+}
