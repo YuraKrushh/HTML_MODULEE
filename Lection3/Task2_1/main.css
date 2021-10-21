@@ -1,0 +1,61 @@
+.page {
+    height: 600px;
+    width: 400px;
+    background: #ffffff;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#header {
+    height: 17%;
+    width: 100%;
+    background: rgba(243, 230, 133, 0.99);
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+#menu {
+    height: 59.7%;
+    width: 23.5%;
+    background: lightpink;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+.posts {
+    height: 60%;
+    width: 73.5%;
+    background: #fcfdfd;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 10px;
+
+}
+.post {
+    height: 48.2%;
+    width: 99.4%;
+    background: cyan;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#footer {
+    height: 20%;
+    width: 100%;
+    background: rgba(243, 230, 133, 0.99);
+    margin-bottom: -3%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
