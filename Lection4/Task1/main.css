@@ -8,12 +8,25 @@ html body {
     border-radius: 25px;
     margin-right: 5px;
 }
+#text1:hover {
+    transition: height 0.5s;
+    height: 30%;
+    background: #275196;
+    cursor:pointer;
+
+}
 #text12 {
     width: 50px;
     height: 10px;
     background: #132c56;
     border-radius: 25px;
 
+}
+#text12:hover {
+    transition: height 0.5s;
+    height: 30%;
+    background: #275196;
+    cursor:pointer;
 }
 .back {
     width: 1536px;
@@ -63,6 +76,29 @@ html body {
     height: 80%;
     background: #132c56;
     border-radius: 15px ;
+
+}
+
+
+.square:hover .sq {
+    transition: all 0.1s;
+    background: #275196;
+    cursor:pointer;
+
+
+
+}
+.square:hover .text2 {
+    transition: all 0.1s;
+    background: #275196;
+    cursor:pointer;
+
+}
+.square:hover .text22 {
+    transition: all 0.1s;
+    background: #275196;
+    cursor:pointer;
+
 }
 .text2 {
     width: 80px;
@@ -96,20 +132,26 @@ html body {
     justify-content: center;
     flex-wrap: wrap;
 
-
-
-
-
 }
-.three.second {
+.three:hover {
+    transition: all 0.1s;
     border: 3px solid #03c2fd;
+    cursor:pointer;
+
+
 }
+
+/*.three.second {
+    border: 3px solid #03c2fd;
+}*/
+
 .round {
     width: 55%;
     height: 60%;
     background: #c1d2f1;
     border-radius: 100%;
     margin-top: 5%;
+
 }
 .text {
     width: 60%;
