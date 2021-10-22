@@ -7,27 +7,54 @@ html body {
     background: #132c56;
     border-radius: 25px;
     margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0;
+
 }
 #text1:hover {
-    transition: height 0.5s;
+    transition: height 0.4s;
     height: 30%;
     background: #275196;
     cursor:pointer;
+}
+#text1:hover #search1 {
+    transition: all 0.4s;
+    cursor:pointer;
+    color: white;
+    font-size: 15px;
+    padding-bottom: 3%;
+    font-family: 'Raleway', sans-serif;
 
 }
+
 #text12 {
     width: 50px;
     height: 10px;
     background: #132c56;
     border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
+
 #text12:hover {
-    transition: height 0.5s;
+    transition: height 0.4s;
     height: 30%;
     background: #275196;
     cursor:pointer;
 }
+
+#text12:hover #search {
+    transition: all 0.4s;
+    cursor:pointer;
+    height: 20px;
+    width: 20px;
+
+}
+
 .back {
     width: 1536px;
     height: 750px;
@@ -124,10 +151,6 @@ html body {
     border: 3px solid #03c2fd;
     cursor:pointer;
 }
-
-/*.three.second {
-    border: 3px solid #03c2fd;
-}*/
 
 .round {
     width: 55%;
