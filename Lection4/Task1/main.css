@@ -79,27 +79,13 @@ html body {
 
 }
 
-
-.square:hover .sq {
+.square:hover .rr {
     transition: all 0.1s;
-    background: #275196;
-    cursor:pointer;
-
-
-
+        background: #275196;
+        cursor:pointer;
 }
-.square:hover .text2 {
-    transition: all 0.1s;
-    background: #275196;
-    cursor:pointer;
 
-}
-.square:hover .text22 {
-    transition: all 0.1s;
-    background: #275196;
-    cursor:pointer;
 
-}
 .text2 {
     width: 80px;
     height: 7px;
@@ -137,8 +123,6 @@ html body {
     transition: all 0.1s;
     border: 3px solid #03c2fd;
     cursor:pointer;
-
-
 }
 
 /*.three.second {
