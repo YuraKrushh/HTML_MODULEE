@@ -1,0 +1,28 @@
+@media screen and (max-width: 400px) {
+    .first-page-left h1 {
+        font-size: 35px;
+        line-height: 45px;
+
+    }
+    .first-page-left h1 {
+        margin: 0;
+
+    }
+    .first-page-left h2 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .first-page-text2 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .first-page-right {
+        width: 100%;
+    }
+    .third-page-top img {
+
+
+    }
+
+
+}
