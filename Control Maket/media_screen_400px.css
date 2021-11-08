@@ -1,0 +1,302 @@
+@media screen and (max-width: 400px) {
+    #city-mobile {
+        display: block;
+        margin-top: 12px;
+        margin-bottom: 10px;
+    }
+    .navbar-toggler span{
+        margin-top: -45px;!important;
+        margin-left: -300px;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 18px;
+        color: #FFFFFF;
+
+    }
+    .nav-link.city-loc {
+        display: none;
+    }
+    li.nav-item.space-between-blocks a.nav-link {
+        margin-left: 0;
+    }
+    .navbar {
+        margin-bottom: 0;
+    }
+    .bar {
+        width: 100%;
+        height: 180px;
+        padding-top: 10px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .main-bar {
+        height: 100%;
+        width: 100%;
+        padding-top: 0;!important;
+        margin-top: 0;
+        margin-left: 0;
+        justify-content: start;
+        align-items: start;
+    }
+    .up-bar {
+        width: 100%;
+        height: 70px;
+        display: flex;
+        padding-top: 0;!important;
+        margin-top: 0;!important;
+        align-items: start;
+        justify-content: unset  ;
+        flex-wrap: wrap;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .i2-bar {
+        display: none;
+    }
+    .i3-bar {
+        display: none;
+    }
+    .i1-bar {
+        width: auto;
+        height: auto;
+
+    }
+    .i1-bar img {
+        width:41px;
+        height:47px;
+    }
+    .i4-bar {
+        position: absolute;
+        margin-left: 180px;
+        margin-top: 52px;
+        font-size: 10px;
+        line-height: 11px;
+        width: auto;
+        height: auto;
+        padding: 5px;
+    }
+    .i4-bar p {
+        font-size: 10px;
+        line-height: 11px;
+
+    }
+    .i4-bar #i4-bar {
+
+    }
+    .i5-bar {
+        position: absolute;
+        margin-left: 186px;
+        margin-top: 8px;
+        width: 150px;
+        height: auto;
+    }
+    .i5-bar p#i5-bar1 {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: -2px;
+    }
+    .i5-bar p#i5-bar2 {
+        font-size: 12px;
+        line-height:14px
+    }
+    .i1-bar h4 {
+        margin-top: -5px;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .i1-bar p {
+        margin-top: -9px;
+        font-size: 10px;
+        line-height: 11px;
+    }
+
+    .down-bar {
+        padding: 5%;
+        display: flex;
+        align-items: start;
+    }
+    .button-btn span {
+
+    }
+    .button-btn {
+        width: 46px;
+        height: 46px;
+    }
+    .form-control {
+        height: 46px;
+        width: 226px;
+    }
+    .btn.btn-outline-success {
+        height: 46px;
+        width: 46px;
+    }
+    .button-btn {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+    }
+    .button-btn img {
+        display: block;
+        height: 20px;
+        width: 24px;
+        margin-right: 3px;
+    }
+    .button-btn span {
+        display: none;
+    }
+    .group-btn {
+        display: none;
+    }
+    .button-btn#btn-lines {
+        display: block;
+    }
+    .btn.btn-outline-success span {
+        display: none;
+    }
+    .btn.btn-outline-success img {
+        display: block;
+        height: 16px;
+        width: 16px;
+
+    }
+    .main-page {
+        width: 100%;
+    }
+    .m-page {
+        width: 100%;
+    }
+    .top-carousels {
+        width: 336px;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;!important;
+        margin-bottom: -40px;
+        margin-left: 8px;
+    }
+    .top-carousel {
+        width: 336px    ;
+        height: 150px    ;
+        margin-left: 20px;
+        margin-bottom: 50px;
+
+    }
+    .slide-crs {
+        width: 336px;
+        height: 190px;
+    }
+    .txt1 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .txt2 {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .txt3 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .txt3 span {
+        position: absolute;
+        margin-left: -100px;
+        margin-top: -20px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .buy-btn {
+        margin-top: -10px;
+        width: 110px;
+        height: 25px;
+    }
+    .slide-crs img.item  {
+        width: 131px;
+        height: 111px;
+        margin-right: 0;
+        margin-top: -80px;
+    }
+    .buy-btn span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .left-sld-content {
+        margin-left: 20px;
+    }
+    .mm-bnt {
+        width: 100%;
+        margin-left: -15px;
+    }
+    .line {
+        display: none;
+    }
+    .news-blocks {
+        flex-direction: column;
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .n-bl.one {
+        margin-left: 15px;
+        margin-top: 0;
+    }
+    .n-bl.two {
+        margin-left: 15px;
+    }
+    .n-bl.three {
+        margin-left: 15px;
+    }
+    .n-bl.four {
+        margin-left: 15px;
+    }
+    .bottom-content {
+        flex-direction: column;
+    }
+    .bottom {
+        width: 100%;
+        height: auto;
+    }
+    .b-box {
+        flex-direction: column;
+        width: 100%;
+    }
+    .mail {
+        margin-top: 10px;
+    }
+    .mail p span{
+        font-size: 14px;
+        word-wrap: break-word;
+        white-space: pre-line;
+    }
+    .mail p {
+        font-size: 12px;
+        word-wrap: break-word;
+    }
+    .mail1 {
+        margin-left: -10px;
+    }
+    #inputPassword2 {
+        margin-left: 0;
+        width: 250px;
+        height: 50px;
+    }
+    #input {
+        width: 100px;
+        height: 50px;
+        font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .social {
+        width: 90%;
+        margin-top: 20px;
+        padding-bottom: 40px;
+        justify-content: center;
+    }
+    .mm-page {
+    }
+}
